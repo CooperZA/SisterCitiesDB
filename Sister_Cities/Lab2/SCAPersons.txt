@@ -1,0 +1,60 @@
+MemberID	FirstName	MidName	LastName	CurrentMember	MembershipType	Address	City	State	ZipCode	Area Code	Phone	E-Mail
+1628	Vasco		Núñez de Balboa	TRUE	Corporate	801 Newell St	Bellingham	WA	98225-5722	206	9354110	VasNunez@otter.org
+1628			Balboa Enterprises	TRUE	Corporate	2812 Haxton Way	Bellingham	WA	98226	206	7230961	Info@balboa.com
+5806	Jacques		Marquette	TRUE	Corporate	3102 Deer Island Dr E         	Sumner	WA	98390	425	6728665	MarquetteJ@hamster.com
+5806	Pierre		de la Salle	TRUE	Corporate	612 H Street Rd	Lynden	WA	98264			de.la.Salle@marquette.org
+5806			Marquette Electronics	TRUE	Corporate	PO Box 191	Acme	WA	98220-0191	206	8427735	Sales@marquette.org
+8131	Vitus		Bering	TRUE	Corporate	3021 Cowgill                  	Bellingham	WA	98225	206	5232430	BeringV@hamster.com
+8131			Bering Seafoods	TRUE	Corporate	11623 228th NE	Arlington	WA	98223	425	2524335	Bering.Seafoods@bering.com
+499	Herman		Perry	TRUE	Family	1232 Crawford Rd	Lynnwood	WA	98036	360	6500098	PerryH@hamster.com
+499	Matthew		Perry	TRUE	Family	707 Baker St	Bellingham	WA	98225	253	8621340	MatPerry@otter.org
+499	Priscilla		Perry	TRUE	Family	707 Baker St	Bellingham	WA	98225	214	6299039	PerryP@hamster.com
+499	Xavier		Perry	TRUE	Family	707 Baker St	Bellingham	WA	98225	425	8236637	PerryX@hamster.com
+3638	April	Song	Byrd	TRUE	Family	5697 Mt Baker Hwy             	Deming	WA	98244	360	7561008	ByrdA@hamster.com
+3638	Richard		Byrd	TRUE	Family	5697 Mt Baker Hwy             	Deming	WA	98244	360	7561008	RByrd@gerbil.net
+5082	Frances		Drake	TRUE	Family	3545 Bartlett Ave	Bellingham	WA	98226	425	2100437	
+5082	Francis		Drake	TRUE	Family	3545 Bartlett Ave	Bellingham	WA	98226	425	2100437	DrakeF@hamster.com
+6812	Louise	de Mille	Joliet	TRUE	Family	10209 40th Ave SE             	Everett	WA	98208	360	6472823	
+6812	Louis		Jolliet	TRUE	Family	PO Box 647	Lynden	WA	98264	206	7890429	LouJolli@otter.org
+9854	Francesca		Rodrigues-Coronado	TRUE	Family	72111 Patawa Rd	Pendleton	OR	97801-9505	425	2524042	FraRodri@otter.org
+9854	Francisco		Vásquez de Coronado	TRUE	Family	72111 Patawa Rd	Pendleton	OR	97801-9505	715	4242073	Fvasquez.de.Coronado@gerbil.net
+410	Jacques		Cartier	TRUE	Individual	4654 Guide Meridian	Bellingham	WA	98226	360	6713721	JCartier@gerbil.net
+668	John		Cabot	TRUE	Individual	PO Box 1363                   	Blaine	WA	98230	360	7141220	JohCabot@otter.org
+959	Christopher		Columbus	TRUE	Individual	PO Box 20	Boise	ID	83726	757	6861721	ChrColum@otter.org
+1949	Walter		Raleigh	TRUE	Individual	1000 Edgewater Ln             	Lynden	WA	98264	406	4584772	RaleighW@hamster.com
+2226	Edmund		Hillary	TRUE	Individual	701 E North                   	Bellingham	WA	98225	360	7529861	EHillary@gerbil.net
+2281	Vasco	da	Gama	TRUE	Individual	PO Box 1548                   	Oroville	WA	98844	360	7141179	VasGama@otter.org
+2702	Yuri		Gagarin	TRUE	Individual	131 W 13th St                 	Port Angeles	WA	98362	253	9459494	GagarinY@hamster.com
+2926	David		Livingstone	TRUE	Individual	7413 Upper Ridge Rd           	Everett	WA	98203	265	5357290	DavLivin@otter.org
+2967	Abel		Tasman	TRUE	Individual	808 21st St 100	Bellingham	WA	98225	360	6832294	
+3773	Marco		Polo	TRUE	Individual	237 Middlefield Rd	Bellingham	WA	98225	360	7347230	PoloM@hamster.com
+4076	Alan		Shepard	TRUE	Individual	3131 Ferry B-308	Bellingham	WA	98225	845	6587579	ShepardA@hamster.com
+4285	James		Cook	TRUE	Individual	2103 N 62nd St	Seattle	WA	98103-5720	425	3535231	CookJ@hamster.com
+4820	Valentina		Tereshkova	TRUE	Individual	704 W 20th St	Vancouver	WA	98660-2420	206	7796604	VTereshkova@gerbil.net
+5104	Neil		Armstrong	TRUE	Individual	PO Box 276	Leavenworth	WA	98826	206	6163663	NeiArmst@otter.org
+5944	Sally		Ride	TRUE	Individual	1803 Sandalwood Ctr	Mount Vernon	WA	98273	541	2761104	RideS@hamster.com
+6001	Juan		Ponce de León	TRUE	Individual	2100 1/2 NEw St	Bellingham	WA	98225	425	8817671	Ponce.de.LeonJ@hamster.com
+6544	Leif		Eriksson	TRUE	Individual	PO Box 19444	Seattle	WA	98109	360	2401230	LeiEriks@otter.org
+6963	Mehmed	Emin	Pasha	TRUE	Individual	1030 15th St	Bellingham	WA	98225	360	7560904	PashaM@hamster.com
+7209	Mary	Henrietta	Kingsley	TRUE	Individual	475 Pepper Ave	Wisconsin Rapids	WI	54494-6108	206	4397337	MKingsley@gerbil.net
+7736	Ferdinand		Magellan	TRUE	Individual	PO Box 1946	Ferndale	WA	98248	360	6971706	FerMagel@otter.org
+9309	Roald		Amundsen	TRUE	Individual	4603 182nd Pl SW              	Lynnwood	WA	98037	360	3545995	RAmundsen@gerbil.net
+9401	Amelia		Earhart	TRUE	Individual	8417 NE Paulanna Ln	Bainbridge Island	WA	98110	360	2200814	AmeEarha@otter.org
+9950	George		Vancouver	TRUE	Individual	801 Harris Ave Bldg 1	Bellingham	WA	98225	360	3845171	GeoVanco@otter.org
+1345	Benjamin	Franklin	Pierce	FALSE	Individual	14809 Broadway	Snohomish	WA	98296	360	2233824	PierceB@hamster.com
+1633	Sherman	T.	Potter	FALSE	Individual	PO Box 176                    	Trout Lake	WA	98650	360	7386902	ShePotte@otter.org
+2566	Margaret		Houlihan	FALSE	Individual	1901 West 6th                 	Aberdeen	WA	98520	360	6715286	HoulihanM@hamster.com
+3597	Tenzing		Norgay	FALSE	Individual	3130 Bennett Dr	Bellingham	WA	98225	480	7594640	NorgayT@hamster.com
+4688	Henry		Blake	FALSE	Individual	1344 Mc Lean Rd	Mount Vernon	WA	98273	360	6479523	BlakeH@hamster.com
+5031	John	Francis Patrick	Mulcahy	FALSE	Individual	12208 NE 137th Pl	Kirkland	WA	98034-2228	360	7158413	MulcahyJ@hamster.com
+5091	Charles	Emerson	Winchester III	FALSE	Individual	1311 37th St	Bellingham	WA	98229-3234	360	4352393	WinchesterC@hamster.com
+5202	George		Vancouver	FALSE	Individual	1802 B 16th Street	Bellingham	WA	98225	360	3712131	VancouverG@hamster.com
+5507	John	Francis Xavier	McIntyre	FALSE	Individual	6029 Championship Cir	Mukilteo	WA	98275-5031	541	5829678	JMcIntyre@gerbil.net
+6115	Genghis		Khan	FALSE	Individual	405 Foxhound Ct	Versailles	KY	40383-1644	360	7343832	KhanG@hamster.com
+7203	Franklin	D.	Burns	FALSE	Individual	3007 Federal Ave              	Everett	WA	98201	425	8685894	BurnsF@hamster.com
+8612	Sacagawea		Charbonneau	FALSE	Individual	2473 S Spencer St	Seattle	WA	98108	503	2888104	CharbonneauS@hamster.com
+8737	Walter	Eugene	O'Reilly	FALSE	Individual	4759 Bay Road	Blaine	WA	98230	206	7899178	WOReilly@gerbil.net
+2544	William		Clark	TRUE	Individual	503 Howardville Rd	Canton	NY	13617-3439	907	7462497	WClark@gerbil.net
+4730	Hernán		Cortés	TRUE	Individual	4427 Ridgemont Dr	Everett	WA	98203	360	5747902	HCortes@gerbil.net
+6249	Charles		Lindbergh	TRUE	Individual	20124 32nd Avenue NE	Seattle	WA	98155-1500	360	6475661	LindberghC@hamster.com
+8879	Meriwether		Lewis	TRUE	Individual	2030 Pleasant Creek Rd	Rogue River	OR	97537-9710	425	3370541	LewisM@hamster.com
